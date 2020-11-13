@@ -1,3 +1,3 @@
-<h1 align="center">⚡⚡🔥Rendom-Password-Ganrater🔥⚡⚡</h1>
+<h2 align="center">⚡⚡🔥Rendom-Password-Ganrater🔥⚡⚡</h2>
 
 
